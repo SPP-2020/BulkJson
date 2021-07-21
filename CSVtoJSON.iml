@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file:///home/tushar/Downloads/org.json.jar" />
+    <libelement value="file:///home/tushar/Downloads/opencvs/commons-lang3-3.6.jar" />
+    <libelement value="file:///home/tushar/Downloads/opencvs/commons-text-1.1.jar" />
+    <libelement value="file:///home/tushar/Downloads/opencvs/commons-logging-1.2.jar" />
+    <libelement value="file:///home/tushar/Downloads/opencvs/commons-beanutils-1.9.3.jar" />
+    <libelement value="file:///home/tushar/Downloads/opencvs/commons-collections-3.2.2.jar" />
+    <libelement value="file:///home/tushar/Downloads/opencvs/opencsv-4.1.jar" />
+    <libelement value="file:///home/tushar/Downloads/json-simple-1.1.jar" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/gson-2.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/json-simple-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
